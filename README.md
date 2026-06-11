@@ -5,13 +5,13 @@
 
 ### Задание 1
 
-[](./cloud-init.yml)
-[](./hosts.ini)
-[](./main.tf)
-[](./outputs.tf)
-[](./provider.tf)
-[](./variables.tf)
-[](./terraform.tfvars)
+![](./cloud-init.yml)
+![](./hosts.ini)
+![](./main.tf)
+![](./outputs.tf)
+![](./provider.tf)
+![](./variables.tf)
+![](./terraform.tfvars)
 
 
 ![](./img/Снимок1.jpg)
