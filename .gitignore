@@ -1,0 +1,30 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+*tfplan*
+crash.log
+crash.*.log
+.terraformrc
+terraform.rc
+
+# Variables
+*.tfvars
+*.tfvars.json
+*.auto.tfvars
+*.auto.tfvars.json
+
+# Overrides
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Secrets
+key.json
+*.service-account.json
+*.sa-key.json
+authorized_key.json
+.env
+.env.*
