@@ -11,7 +11,6 @@
 [outputs.tf](./outputs.tf)
 [provider.tf](./provider.tf)
 [variables.tf](./variables.tf)
-[terraform.tfvars](./terraform.tfvars)
 
 
 ![](./img/Снимок1.jpg)
