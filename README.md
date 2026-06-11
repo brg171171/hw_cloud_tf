@@ -5,7 +5,6 @@
 
 ### Задание 1
 
-<<<<<<< HEAD
 [cloud-init.yml](./cloud-init.yml)
 [hosts.ini](./hosts.ini)
 [main.tf](./main.tf)
@@ -13,15 +12,6 @@
 [provider.tf](./provider.tf)
 [variables.tf](./variables.tf)
 [terraform.tfvars](./terraform.tfvars)
-=======
-![](./cloud-init.yml)
-![](./hosts.ini)
-![](./main.tf)
-![](./outputs.tf)
-![](./provider.tf)
-![](./variables.tf)
-![](./terraform.tfvars)
->>>>>>> 42a1b582f8d44c60387dc13fed7b8db6ec40b005
 
 
 ![](./img/Снимок1.jpg)
